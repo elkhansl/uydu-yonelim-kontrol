@@ -1,0 +1,1 @@
+# uydu-yonelim-kontrol
